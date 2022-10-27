@@ -1,7 +1,7 @@
 👋 Hey, I’m João
 =====
 
-- 👀 I’m interested in music, security and game dev.
+- 👀 I’m interested in music, security, web dev and game dev.
 - 🌱 I’m currently studying @ [42 Lisboa](https://www.42lisboa.com/)
 - 📫 How to reach me joaosacaetano@gmail.com
 
