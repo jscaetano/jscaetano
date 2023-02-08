@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in music, security, web dev and game dev.
 - 🌱 I’m currently studying @ [42 Porto](https://www.42porto.com/)
-- 🌐 More info at [s](jscaetano.github.io/)
+- 🌐 More info at [my website](https://jscaetano.github.io/)
 - 📫 How to reach me joaosacaetano@gmail.com
 
 <div>
